@@ -1,0 +1,7 @@
+body{
+    background-color: black;
+    color:white;
+}
+#div1{
+ display: inline-flex;  
+}
